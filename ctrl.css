@@ -66,11 +66,10 @@ main{
     justify-content: center;
     align-items: center;
     height: 40%;
-    width: 90%;
+    width: 91%;
     padding: 4%;
     border-radius: 7px;
     background: #76edf6;
-    border: 2px solid RED;
 }
 
 .imSecG{
